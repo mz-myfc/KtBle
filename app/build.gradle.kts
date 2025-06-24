@@ -45,8 +45,4 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
-
-    implementation(libs.rxjava)  // RxJava
-    implementation(libs.rxandroid) // RxAndroid
-//    implementation(libs.fastble)
 }
